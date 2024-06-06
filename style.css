@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://s2.glbimg.com/kS6blsmyx7xRBf3_QSBT3-wsvtg=/smart/e.glbimg.com/og/ed/f/original/2020/11/18/notebooks-para-trabalhar-e-estudar.jpg);
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sust{
+    background-color: rgba(161, 14, 194, 0.496);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+#container{
+    background-color: rgba(255, 255, 255, 0.773);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 450px;
+    border-radius: 10px;
+}
+#caixadelogin{
+    background-color: rgb(0, 0, 0, 0.86);
+    color:white;
+    width: 330px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 30;
+}
+#textologin{
+    margin-left: 30px;
+}
+#caixinha{
+    height: 20px;
+}
+.link{
+    
+}
+.campo{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+button{
+    height: 40px;
+    width: 120px;
+    border-radius: 6px;
+}
+input{
+    margin-top: 30px;
+    height: 40px;
+    width: 200px;
+    border-radius: 6px;
+}
